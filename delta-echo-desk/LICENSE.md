@@ -1,0 +1,11 @@
+# LICENSE
+
+File in **delta-echo-desk** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [delta-echo-desk](https://github.com/o9nn/delta-echo-desk)
+- **Path**: [LICENSE](https://github.com/o9nn/delta-echo-desk/blob/main/LICENSE)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

@@ -1,0 +1,11 @@
+# LICENSE
+
+File in **wut** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [wut](https://github.com/o9nn/wut)
+- **Path**: [LICENSE](https://github.com/o9nn/wut/blob/main/LICENSE)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

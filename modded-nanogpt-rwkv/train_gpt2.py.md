@@ -1,0 +1,11 @@
+# train_gpt2.py
+
+File in **modded-nanogpt-rwkv** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [modded-nanogpt-rwkv](https://github.com/o9nn/modded-nanogpt-rwkv)
+- **Path**: [train_gpt2.py](https://github.com/o9nn/modded-nanogpt-rwkv/blob/main/train_gpt2.py)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

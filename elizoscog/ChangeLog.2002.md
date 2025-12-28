@@ -1,0 +1,11 @@
+# ChangeLog.2002
+
+File in **elizoscog** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [elizoscog](https://github.com/o9nn/elizoscog)
+- **Path**: [ChangeLog.2002](https://github.com/o9nn/elizoscog/blob/main/ChangeLog.2002)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

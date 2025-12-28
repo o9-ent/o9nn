@@ -1,0 +1,27 @@
+# tis-backend
+
+Repository in **o9nn** organization.
+
+- **GitHub**: https://github.com/o9nn/tis-backend
+- **Root Files/Folders**: 13
+
+## Contents
+
+| Name | Type |
+|------|------|
+| 📄 [.clang-format](./.clang-format.md) | file |
+| 📁 [.github](./.github.md) | dir |
+| 📄 [.gitignore](./.gitignore.md) | file |
+| 📄 [.pre-commit-config.yaml](./.pre-commit-config.yaml.md) | file |
+| 📄 [CMakeLists.txt](./CMakeLists.txt.md) | file |
+| 📄 [LICENSE](./LICENSE.md) | file |
+| 📄 [README.md](./README.md.md) | file |
+| 📁 [cmake](./cmake.md) | dir |
+| 📁 [docs](./docs.md) | dir |
+| 📁 [examples](./examples.md) | dir |
+| 📁 [include](./include.md) | dir |
+| 📄 [pyproject.toml](./pyproject.toml.md) | file |
+| 📁 [src](./src.md) | dir |
+
+---
+*Auto-generated fractal mapping - 2025-12-28*

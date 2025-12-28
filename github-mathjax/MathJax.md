@@ -1,0 +1,11 @@
+# MathJax
+
+Dir in **github-mathjax** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [github-mathjax](https://github.com/o9nn/github-mathjax)
+- **Path**: [MathJax](https://github.com/o9nn/github-mathjax/blob/main/MathJax)
+- **Type**: dir
+
+---
+*Auto-generated fractal mapping (Level 2)*

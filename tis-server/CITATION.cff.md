@@ -1,0 +1,11 @@
+# CITATION.cff
+
+File in **tis-server** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [tis-server](https://github.com/o9nn/tis-server)
+- **Path**: [CITATION.cff](https://github.com/o9nn/tis-server/blob/main/CITATION.cff)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

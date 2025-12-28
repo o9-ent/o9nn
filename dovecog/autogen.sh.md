@@ -1,0 +1,11 @@
+# autogen.sh
+
+File in **dovecog** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [dovecog](https://github.com/o9nn/dovecog)
+- **Path**: [autogen.sh](https://github.com/o9nn/dovecog/blob/main/autogen.sh)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

@@ -1,0 +1,11 @@
+# workflows
+
+Dir in **prompts** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [prompts](https://github.com/o9nn/prompts)
+- **Path**: [workflows](https://github.com/o9nn/prompts/blob/main/workflows)
+- **Type**: dir
+
+---
+*Auto-generated fractal mapping (Level 2)*

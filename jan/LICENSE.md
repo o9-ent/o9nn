@@ -1,0 +1,11 @@
+# LICENSE
+
+File in **jan** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [jan](https://github.com/o9nn/jan)
+- **Path**: [LICENSE](https://github.com/o9nn/jan/blob/main/LICENSE)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

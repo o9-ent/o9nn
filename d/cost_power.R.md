@@ -1,0 +1,11 @@
+# cost_power.R
+
+File in **d** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [d](https://github.com/o9nn/d)
+- **Path**: [cost_power.R](https://github.com/o9nn/d/blob/main/cost_power.R)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

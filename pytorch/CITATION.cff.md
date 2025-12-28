@@ -1,0 +1,11 @@
+# CITATION.cff
+
+File in **pytorch** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [pytorch](https://github.com/o9nn/pytorch)
+- **Path**: [CITATION.cff](https://github.com/o9nn/pytorch/blob/main/CITATION.cff)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

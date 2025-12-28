@@ -1,0 +1,11 @@
+# core
+
+Dir in **self-sdk-chatbot** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [self-sdk-chatbot](https://github.com/o9nn/self-sdk-chatbot)
+- **Path**: [core](https://github.com/o9nn/self-sdk-chatbot/blob/main/core)
+- **Type**: dir
+
+---
+*Auto-generated fractal mapping (Level 2)*

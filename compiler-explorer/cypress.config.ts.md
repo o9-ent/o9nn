@@ -1,0 +1,11 @@
+# cypress.config.ts
+
+File in **compiler-explorer** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [compiler-explorer](https://github.com/o9nn/compiler-explorer)
+- **Path**: [cypress.config.ts](https://github.com/o9nn/compiler-explorer/blob/main/cypress.config.ts)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

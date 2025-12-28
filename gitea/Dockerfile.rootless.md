@@ -1,0 +1,11 @@
+# Dockerfile.rootless
+
+File in **gitea** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [gitea](https://github.com/o9nn/gitea)
+- **Path**: [Dockerfile.rootless](https://github.com/o9nn/gitea/blob/main/Dockerfile.rootless)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

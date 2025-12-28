@@ -1,0 +1,11 @@
+# Dockerfile
+
+File in **scaling-book** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [scaling-book](https://github.com/o9nn/scaling-book)
+- **Path**: [Dockerfile](https://github.com/o9nn/scaling-book/blob/main/Dockerfile)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

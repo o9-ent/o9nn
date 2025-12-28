@@ -1,0 +1,11 @@
+# run_train.sh
+
+File in **torchtitan** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [torchtitan](https://github.com/o9nn/torchtitan)
+- **Path**: [run_train.sh](https://github.com/o9nn/torchtitan/blob/main/run_train.sh)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

@@ -1,0 +1,11 @@
+# LICENSE
+
+File in **cxxopts** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [cxxopts](https://github.com/o9nn/cxxopts)
+- **Path**: [LICENSE](https://github.com/o9nn/cxxopts/blob/main/LICENSE)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

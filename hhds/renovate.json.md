@@ -1,0 +1,11 @@
+# renovate.json
+
+File in **hhds** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [hhds](https://github.com/o9nn/hhds)
+- **Path**: [renovate.json](https://github.com/o9nn/hhds/blob/main/renovate.json)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

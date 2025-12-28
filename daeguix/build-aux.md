@@ -1,0 +1,11 @@
+# build-aux
+
+Dir in **daeguix** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [daeguix](https://github.com/o9nn/daeguix)
+- **Path**: [build-aux](https://github.com/o9nn/daeguix/blob/main/build-aux)
+- **Type**: dir
+
+---
+*Auto-generated fractal mapping (Level 2)*

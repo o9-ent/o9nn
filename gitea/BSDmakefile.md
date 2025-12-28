@@ -1,0 +1,11 @@
+# BSDmakefile
+
+File in **gitea** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [gitea](https://github.com/o9nn/gitea)
+- **Path**: [BSDmakefile](https://github.com/o9nn/gitea/blob/main/BSDmakefile)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

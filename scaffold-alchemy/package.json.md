@@ -1,0 +1,11 @@
+# package.json
+
+File in **scaffold-alchemy** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [scaffold-alchemy](https://github.com/o9nn/scaffold-alchemy)
+- **Path**: [package.json](https://github.com/o9nn/scaffold-alchemy/blob/main/package.json)
+- **Type**: file
+
+---
+*Auto-generated fractal mapping (Level 2)*

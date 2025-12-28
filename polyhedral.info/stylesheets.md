@@ -1,0 +1,11 @@
+# stylesheets
+
+Dir in **polyhedral.info** repository (o9nn organization)
+
+- **Organization**: [o9nn](https://github.com/o9nn)
+- **Repository**: [polyhedral.info](https://github.com/o9nn/polyhedral.info)
+- **Path**: [stylesheets](https://github.com/o9nn/polyhedral.info/blob/main/stylesheets)
+- **Type**: dir
+
+---
+*Auto-generated fractal mapping (Level 2)*
